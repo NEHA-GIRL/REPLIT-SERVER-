@@ -4,6 +4,6 @@
 
 ![logo](https://github.com/NEHA-GIRL/REPLIT-SERVER-/blob/main/NEHA/IMG_20240801_105817.jpg)
 
-### RUNNING USING THE REPLIT BUTTON 
+### RUNNING USING THE REPLIT  
 
-[![RUNNING SERVER IN REPLIT](https://www.replit.com/deploy/button.svg)](https://replit.com/deploy?template=https://github.com/DevsExpo/FridayUserbot))
+<www.replit.com.>
