@@ -6,4 +6,6 @@
 
 ### RUNNING USING THE REPLIT BUTTON 
 
-[![RUNNING SERVER IN REPLIT](https://www.replit.com/static/images/deploy/button.svg)](https://app.replit.com/deploy?type=git&repository=github.com/replit/example-requests&branch=main&name=requests-on-replit)
+[![RUNNING SERVER IN REPLIT](Replit
+https://replit.com
+Replit)
