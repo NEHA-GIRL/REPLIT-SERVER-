@@ -6,5 +6,4 @@
 
 ### RUNNING USING THE REPLIT BUTTON 
 
-[![RUNNING SERVER IN REPLIT](
-https://replit.com)
+[![RUNNING SERVER IN REPLIT](https://www.replit.com/deploy/button.svg)](https://replit.com/deploy?template=https://github.com/DevsExpo/FridayUserbot))
