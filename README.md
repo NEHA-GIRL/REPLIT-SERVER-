@@ -4,6 +4,10 @@
 
 ![logo](https://github.com/NEHA-GIRL/REPLIT-SERVER-/blob/main/NEHA/IMG_20240801_105817.jpg)
 
-### RUNNING USING THE REPLIT  
+### FORK USING THE REPLIT  
+**[`Fork Repo`](https://github.com/NEHA-GIRL/REPLIT-SERVER-/tree/main/INBOX SERVER/fork)**
 
-<www.replit.com.>
+
+<a href="https://github.com/NEHA-GIRL/REPLIT-SERVER-/tree/main/INBOX SERVER"><img title="NEHA-GIRL/REPLIT-SERVER-/tree/main/INBOX SERVER Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+
+
